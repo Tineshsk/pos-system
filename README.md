@@ -21,7 +21,7 @@ This repository contains the manual test cases for the POS system with a card pa
    - Record the actual results and compare them with the expected results.
 3. **Report Defects:**
    - If any test case fails, log a defect in your defect tracking system with detailed information.
-   - 
+     
 ##### Test Cases
 
 - POS system to which a card payment terminal is paired
